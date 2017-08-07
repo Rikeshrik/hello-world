@@ -1,5 +1,5 @@
 # hello-world
-begin
+//begin
 class A {
 System.out.println("hello world");
 
